@@ -1,12 +1,12 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: #87CEFA;
 }
 
 #header
 {
-	background: #ccc;
+	background: #A9A9A9;
 	padding: 20px;
 }
 
@@ -14,9 +14,9 @@
 
 #navigation
 {
-	float: left;
+	float: center;
 	width: 100%;
-	background: #333;
+	background: #DCDCDC;
 }
 
 #navigation ul
@@ -34,14 +34,14 @@
 #navigation li a
 {
 	display: block;
-	float: left;
+	float: center;
 	padding: 5px 10px;
 	color: #fff;
 	text-decoration: none;
 	border-right: 1px solid #fff;
 }
 
-#navigation li a:hover { background: #383; }
+#navigation li a:hover { background: #363; }
 
 #edito
 {
@@ -69,7 +69,7 @@
 
 #news
 {	
-	float: left;
+	float: right;
 	width: 40%;
 	padding: 20px;
 	margin: 20px;
@@ -88,8 +88,8 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
-	text-align: right;
+	background: #A9A9A9;
+	text-align: center;
 	padding: 20px;
 	height: 1%;
 }
